@@ -1,0 +1,11 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Paths>
+  <ManifestDocuments />
+  <NativeLibraries />
+  <Jars>
+    <Jar>obj\Debug\lp\16\jl\Websockets.DroidBridge.jar</Jar>
+    <Jar>obj\Debug\lp\16\jl\__reference__androidasync-2.1.6.jar</Jar>
+    <Jar>obj\Debug\lp\2\jl\formsviewgroup.jar</Jar>
+    <Jar>obj\Debug\lp\5\jl\okhttp-2.3.0-jar-with-dependencies.jar</Jar>
+  </Jars>
+</Paths>
