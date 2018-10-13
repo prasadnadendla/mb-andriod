@@ -75,6 +75,12 @@
     <Reference Include="Plugin.BLE">
       <HintPath>..\packages\Plugin.BLE.1.0.0\lib\MonoAndroid\Plugin.BLE.dll</HintPath>
     </Reference>
+    <Reference Include="Websockets.Droid, Version=1.0.1.8, Culture=neutral, processorArchitecture=MSIL">
+      <HintPath>..\packages\Websockets.Pcl.1.1.9\lib\MonoAndroid\Websockets.Droid.dll</HintPath>
+    </Reference>
+    <Reference Include="WebSockets.PCL, Version=1.0.0.8, Culture=neutral, processorArchitecture=MSIL">
+      <HintPath>..\packages\Websockets.Pcl.1.1.9\lib\MonoAndroid\WebSockets.PCL.dll</HintPath>
+    </Reference>
     <Reference Include="Xamarin.Android.Support.v4">
       <HintPath>..\packages\Xamarin.Android.Support.v4.23.3.0\lib\MonoAndroid403\Xamarin.Android.Support.v4.dll</HintPath>
     </Reference>

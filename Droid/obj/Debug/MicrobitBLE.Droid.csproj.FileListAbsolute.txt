@@ -228,3 +228,6 @@ C:\Users\prasad.n\Downloads\splits\microbit-ble-mobile-andriod\Droid\obj\Debug\l
 C:\Users\prasad.n\Downloads\splits\microbit-ble-mobile-andriod\Droid\obj\Debug\linksrc\System.Runtime.Serialization.pdb
 C:\Users\prasad.n\Downloads\splits\microbit-ble-mobile-andriod\Droid\obj\Debug\linksrc\System.ServiceModel.Internals.pdb
 C:\Users\prasad.n\Downloads\splits\microbit-ble-mobile-andriod\Droid\obj\Debug\linksrc\System.Xml.pdb
+C:\Users\prasad.n\source\repos\mb-andriod\MicrobitBLE\bin\Debug\MicrobitBLE.dll
+C:\Users\prasad.n\source\repos\mb-andriod\packages\rda.SocketsForPCL.1.2.2\lib\MonoAndroid10\Sockets.Plugin.Abstractions.dll
+C:\Users\prasad.n\source\repos\mb-andriod\packages\rda.SocketsForPCL.1.2.2\lib\MonoAndroid10\Sockets.Plugin.dll

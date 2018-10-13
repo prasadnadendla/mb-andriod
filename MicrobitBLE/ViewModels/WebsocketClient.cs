@@ -9,15 +9,15 @@ namespace MicrobitBLE.ViewModels
 {
     class WebsocketClient
     {
-        // private Websockets.IWebSocketConnection connection;
-        private WebsocketClient connection;
+         private Websockets.IWebSocketConnection connection;
+       // private WebsocketClient connection;
         private bool Echo;
         void Connect()
         {
             // 2) Get a websocket from your PCL library via the factory
-            //  connection = Websockets.WebSocketFactory.Create();
-            connection = new WebsocketClient();
-            connection. += Connection_OnOpened;
+            connection = Websockets.WebSocketFactory.Create();
+           // connection = new WebsocketClient();
+            connection.OnOpened += Connection_OnOpened;
             connection.OnMessage += Connection_OnMessage;
         }
 
