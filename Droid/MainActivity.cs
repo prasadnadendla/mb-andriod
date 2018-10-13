@@ -31,6 +31,8 @@ namespace MicrobitBLE.Droid
 		{
 			PermissionsImplementation.Current.OnRequestPermissionsResult(requestCode, permissions, grantResults);
 		}
+
+        
 	}
 }
 
